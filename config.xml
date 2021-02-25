@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.pako.prueba" version="1.2.30" xmlns="http://www.w3.org/ns/widgets" defaultlocale="es-MX">
+  <icon src="escudo.png" />
+  <name>Recaudación Chiapas</name>
+  <description>La Secretaria de Hacienda del estado de Chiapas, pone a disposición el sistema móvil de tesorería de impuestos y derechos.
+
+Gestiona y realiza el pago de tus impuestos a través de nuestra aplicación móvil. Puedes realizar solicitudes de algunos de nuestros servicios sin necesidad de hacer filas y desde la comodidad de tu hogar.</description>
+  <author email="pakopazm@gmail">Francisco Paz Maldonado</author>
+  <engine name="android" spec="~5.2.1" />
+  <engine name="ios" spec="~4.2.0" />
+  <engine name="windows" spec="~4.4.2" />
+  <content src="index.html" />
+  <access origin="*" />
+</widget>
